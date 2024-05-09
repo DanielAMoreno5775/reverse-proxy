@@ -1,4 +1,4 @@
-# Module 13: Reverse Proxy Programming Assignment
+# Reverse Proxy
 
 ## Instructions
  1. Open up 4 terminal windows in the same folder as the three .py files

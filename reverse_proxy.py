@@ -1,5 +1,4 @@
 #reverse proxy for 1 client and 1+ servers
-#by dam0503
 
 import socket
 import sys
